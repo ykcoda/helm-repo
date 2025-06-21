@@ -3,23 +3,23 @@ entries:
   payments:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-21T23:15:34.73947+01:00"
+    created: "2025-06-21T23:37:04.198171+01:00"
     description: A Helm chart for Kubernetes
-    digest: 1357686d84c140a22b35d6a4d4f0a31101efedbd787547bfe63cd1df629a3a92
+    digest: c12d7263541243a676c37c38631bf4972f71eac519b472c64cfaa91567068cb1
     name: payments
     type: application
     urls:
-    - https://github.io/ykcoda/helm-repo/payments-0.1.0.tgz
+    - payments-0.1.0.tgz
     version: 0.1.0
   shipping:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-06-21T23:15:34.739894+01:00"
+    created: "2025-06-21T23:37:04.199761+01:00"
     description: A Helm chart for Kubernetes
-    digest: c3a5b217e3a282f0e989d1617db8636c13e775f9d0a3b5eb628a80f1676c4e5f
+    digest: ce204d9c2a97077e333f7d71ce805f4fabd90943f7ab7d66f0847d2a3fe53133
     name: shipping
     type: application
     urls:
-    - https://github.io/ykcoda/helm-repo/shipping-0.1.0.tgz
+    - shipping-0.1.0.tgz
     version: 0.1.0
-generated: "2025-06-21T23:15:34.738559+01:00"
+generated: "2025-06-21T23:37:04.197236+01:00"
